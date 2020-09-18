@@ -51,20 +51,21 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 ## Bot commands to be set in botfather
 
 ```
-mirror - Start Mirroring
-tarmirror - Upload tar (zipped) file
-unzipmirror - Extract files
-clone - copy folder to drive
-watch - mirror YT-DL support link
-tarwatch - mirror youtube playlist link as tar
-cancel - Cancel a task
-cancelall - Cancel all tasks
-del - Delete file from Drive
-list - [query] searches files in G-Drive
-status - Get Mirror Status message
-stats - Bot Usage Stats
-help - Get Detailed Help
-log - Bot Log [owner only]
+mirror1 - Start Mirroring
+tarmirror1 - Upload tar (zipped) file
+unzipmirror1 - Extract files
+clone1 - copy folder to drive
+watch1 - mirror YT-DL support link
+tarwatch1 - mirror youtube playlist link as tar
+cancel1 - Cancel a task
+cancelall1 - Cancel all tasks
+del1 - Delete file from Drive
+list1 - [query] searches files in G-Drive
+status1 - Get Mirror Status message
+stats1 - Bot Usage Stats
+ping1 - ping server
+help1 - Get Detailed Help
+log1 - Bot Log [owner only]
 ```
 
 # How to deploy?
