@@ -84,6 +84,7 @@ For Debian based distros
 sudo apt install python3
 sudo apt-get install snapd (if snap not installed do this first)
 sudo snap install docker 
+sudo apt install python3-pip (if pip3 not installed do this first)
 ```
 - For Arch and it's derivatives:
 ```
