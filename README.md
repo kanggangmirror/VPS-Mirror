@@ -84,6 +84,9 @@ For Debian based distros
 sudo apt install python3
 sudo apt-get install snapd (if snap not installed do this first)
 sudo snap install docker 
+sudo apt-get install -y make build-essential libssl-dev zlib1g-dev
+sudo apt-get install -y libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm
+sudo apt-get install -y libncurses5-dev  libncursesw5-dev xz-utils tk-dev
 sudo apt install python3-pip (if pip3 not installed do this first)
 pip3 install -r requirements.txt
 ```
