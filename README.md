@@ -82,6 +82,7 @@ cd mirror-bot-dev
 For Debian based distros
 ```
 sudo apt install python3
+sudo apt-get install snapd (if snap not installed do this first)
 sudo snap install docker 
 ```
 - For Arch and it's derivatives:
