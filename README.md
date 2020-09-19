@@ -74,7 +74,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/LuqmanReburn/magneto-python-aria  mirror-bot-dev/
+git clone https://github.com/LuqmanReburn/lol-python-aria  mirror-bot-dev/
 cd mirror-bot-dev
 ```
 
