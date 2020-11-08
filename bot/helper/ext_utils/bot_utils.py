@@ -16,7 +16,7 @@ class MirrorStatus:
     STATUS_UPLOADING = "Upload Jap...📤"
     STATUS_DOWNLOADING = "Download Dulu...📥"
     STATUS_WAITING = "Beratur la...📝"
-    STATUS_FAILED = "Fail la bro 🚫. bersihkan download jap"
+    STATUS_FAILED = "Failed 🚫. bersihkan download jap"
     STATUS_CANCELLED = "Cancelled ❎"
     STATUS_ARCHIVING = "Archiving...🔐"
     STATUS_EXTRACTING = "Extracting...📂"
